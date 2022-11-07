@@ -1,0 +1,5 @@
+Number of instructions executed = 393
+Number of cycles taken = 16284
+NUmber of Data Hazards = 0
+Number of Control Hazards = 72
+Instruction count per cycle = 0.024134119380987473
